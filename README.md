@@ -1,1 +1,1 @@
-https://Klimchuk-prog.github.io/layout-project/index
+https://Klimchuk-prog.github.io/layout-project/index.index
